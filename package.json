@@ -1,7 +1,11 @@
 {
   "name": "appolo-crypto",
   "description": "useful crypto utils",
-  "keywords": ["rsa","aes","salt"],
+  "keywords": [
+    "rsa",
+    "aes",
+    "salt"
+  ],
   "author": {
     "name": "Roman Svichar",
     "email": "shmoop207@gmail.com"
@@ -14,7 +18,7 @@
     "test": "mocha test --exit"
   },
   "main": "./index.js",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
